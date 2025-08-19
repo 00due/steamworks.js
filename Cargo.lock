@@ -135,7 +135,7 @@ dependencies = [
 
 [[package]]
 name = "napi"
-version = "2.16.8"
+version = "3.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a1bd081bbaef43600fd2c5dd4c525b8ecea7dfdacf40ebc674e87851dce6559e"
 dependencies = [
@@ -157,7 +157,7 @@ checksum = "e1c0f5d67ee408a4685b61f5ab7e58605c8ae3f2b4189f0127d804ff13d5560a"
 
 [[package]]
 name = "napi-derive"
-version = "2.16.10"
+version = "3.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "b13934cae1f98599ae96d461d14ce3a9199215de1e9a9a201b64b118b3dfa329"
 dependencies = [
